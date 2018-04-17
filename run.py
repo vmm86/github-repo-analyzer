@@ -93,8 +93,6 @@ if __name__ == '__main__':
         'to_date':   args.to_date,
         'branch':    args.branch,
 
-        'auth_token': '4f4930c39d987f9428184efc7e3c4165051cdbdf',
-
         'old_pulls_days':  args.old_pulls_days,
         'old_issues_days': args.old_issues_days,
 
